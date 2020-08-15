@@ -1,4 +1,4 @@
-
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 def turn_player(board)
   if board.even?
     return "X"
