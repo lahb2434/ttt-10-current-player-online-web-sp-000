@@ -1,5 +1,5 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 def turn_player(board)
-  if board.each
+  if brothers.each do |brother|
   
   
